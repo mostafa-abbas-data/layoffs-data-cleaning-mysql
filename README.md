@@ -28,7 +28,6 @@ proper data types, and no rows that are useless for analysis.
 |---|---|
 | `data_cleaning.sql` | The full cleaning script, runs top to bottom and can be re-run safely |
 | `layoffs_raw.csv` | The original data |
-| `layoffs_cleaned.csv` | The data after cleaning |
 
 ## Method
 
